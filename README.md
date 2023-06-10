@@ -21,10 +21,9 @@ This simple game comes with an elegant user interface and game options using mou
 
 ## Demo: Wanna try and see how this game works??
 <p align="center">
-<img width=320 src="Screenshot 1.png">
-<img width=320 src="Screenshot 2.png">
-<img width=320 src="Screenshot 3.png">
-<img width=320 src="Screenshot 4.png">
+<img width=320 src="ScreenShot (0).png">
+<img width=320 src="ScreenShot (1).png">
+<img width=320 src="ScreenShot (2).png">
 </p>
 
 ### Run the Game 💫
